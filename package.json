@@ -1,0 +1,24 @@
+{
+  "name": "pk",
+  "version": "1.0.0",
+  "description": "a simple employee management system for mysql featuring the fictional company descended industries",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.0.6",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjared10/employee_management_system.git"
+  },
+  "author": "jared",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hjared10/employee_management_system/issues"
+  },
+  "homepage": "https://github.com/hjared10/employee_management_system#readme"
+}
